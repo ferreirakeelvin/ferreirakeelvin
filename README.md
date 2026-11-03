@@ -82,4 +82,4 @@ Busco oportunidades de estágio e posições de entrada em NOC, Suporte Técnico
 
 Meu objetivo é desenvolver experiência prática em monitoramento, diagnóstico e operação de infraestrutura, contribuindo para a disponibilidade e confiabilidade dos serviços.
 
-**Contato:** [LinkedIn](https://www.linkedin.com/) | Vitória da Conquista – BA
+**Contato:** [LinkedIn](https://www.linkedin.com/ferreirakeelvin) | Vitória da Conquista – BA
