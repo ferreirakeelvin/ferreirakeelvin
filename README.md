@@ -62,11 +62,14 @@ Atividades:
 
 - Google IT Support Professional Certificate.
 - Google Cybersecurity Professional Certificate.
+- Cisco Network Academy — Network Technician Career Path.
+- Cisco Network Academy — Networking Basics.
 - Cisco Networking Academy — Introduction to Cybersecurity.
 - Cisco Networking Academy Learn-A-Thon 2026.
 - Hackers do Bem — Básico e Nivelamento.
 - SENAI — Cloud Computing: Arquitetura e Aplicações.
 - LPIC-1 — Exame 101 aprovado; Exame 102 em preparação.
+- Fortinet — NSE 1 Network Security Associate.
 
 ## Atualmente estudando
 
