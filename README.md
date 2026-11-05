@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) — FASUL.
 ## Conhecimentos técnicos
 
 - **Sistemas:** Linux (Debian, Rocky Linux), Windows e Windows Server.
-- **Redes:** TCP/IP, IPv4/IPv6, DNS, DHCP e SSH.
+- **Redes:** TCP/IP, IPv4/IPv6, DNS, DHCP, SNNP e SSH.
 - **Infraestrutura:** KVM/QEMU, Zabbix, AdGuard Home e Docker.
 - **Automação:** Bash e Python.
 
