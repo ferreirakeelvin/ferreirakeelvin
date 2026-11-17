@@ -1,54 +1,80 @@
 # Kelvin Ferreira
 
-**Suporte Técnico em TI | Linux | Redes TCP/IP | Infraestrutura | NOC**
+**Cibersegurança | SOC N1 / Blue Team | Suporte Técnico N1/N2 | Linux | Windows Server | Redes TCP/IP**
 
-Profissional de TI com experiência em suporte técnico N1/N2, manutenção de computadores e redes. Atualmente direcionando minha carreira para infraestrutura, administração Linux e monitoramento de ambientes.
+Estudante de Análise e Desenvolvimento de Sistemas (FASUL), com experiência em suporte técnico, diagnóstico de falhas, redes locais e dispositivos IP. Estou direcionando minha carreira para Segurança da Informação, com foco inicial em operações de segurança (SOC N1), monitoramento, análise inicial de eventos e documentação.
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) — FASUL.
+## Sobre mim
 
-## Conhecimentos técnicos
+- Estudante de Análise e Desenvolvimento de Sistemas — FASUL (conclusão prevista: 2027).
+- Experiência profissional em suporte técnico, manutenção de computadores, troubleshooting e atendimento a usuários.
+- Formação complementar em cibersegurança pelo Google, Cisco Networking Academy e Hackers do Bem.
+- Estudos e laboratórios práticos com Linux, Windows Server, redes TCP/IP, DNS, virtualização e monitoramento.
+- LPIC-1: exame 101 aprovado; preparação para o exame 102 em andamento.
+- Busco oportunidades de entrada em Segurança da Informação, especialmente SOC N1, estágio ou posição júnior.
 
-- **Sistemas:** Linux (Debian, Rocky Linux), Windows e Windows Server.
-- **Redes:** TCP/IP, IPv4/IPv6, DNS, DHCP, SNNP e SSH.
-- **Infraestrutura:** KVM/QEMU, Zabbix, AdGuard Home e Docker.
-- **Automação:** Bash e Python.
+## Competências e tecnologias
 
-## Projetos em destaque
+| Área | Conhecimentos e ferramentas |
+|---|---|
+| Sistemas operacionais | Windows, Windows Server 2025, Debian Linux e Rocky Linux |
+| Redes | TCP/IP, IPv4, IPv6, DNS, DHCP, Ethernet, SSH e troubleshooting |
+| Identidade e infraestrutura | Active Directory Domain Services (AD DS), DNS integrado, PowerShell e controle de acesso |
+| Monitoramento e laboratório | Zabbix 7, AdGuard Home, QEMU/KVM, libvirt e Tailscale |
+| Segurança | Fundamentos de cibersegurança, ameaças e vulnerabilidades, monitoramento e conceitos de resposta a incidentes |
+| Ferramentas de trabalho | Git, GitHub, terminal Linux e PowerShell |
 
-### 1. Homelab NOC — Infraestrutura e monitoramento
+## Projetos e laboratórios
 
-[Repositório no GitHub](https://github.com/ferreirakeelvin/homelab-noc)
+### 1. SOC Home Lab — base de Active Directory
 
-Laboratório de infraestrutura Linux e Windows com virtualização KVM/QEMU, cinco sistemas monitorados pelo Zabbix 7 e práticas de troubleshooting.
+**Status: em desenvolvimento.**
 
-**Práticas:** administração de sistemas, agentes Zabbix, monitoramento, redes e firewall.
+Laboratório pessoal para praticar fundamentos de infraestrutura corporativa e preparar uma trilha de monitoramento e operações de segurança.
 
-### 2. DNS local — AdGuard Home e monitoramento
+**Implementado e validado:**
+- Windows Server 2025 configurado como controlador de domínio de uma floresta de laboratório.
+- Active Directory Domain Services (AD DS) e DNS integrados.
+- Configuração de identidade e serviços essenciais do domínio.
+- Validação de registros DNS A e SRV, serviços de diretório, SYSVOL e NETLOGON com `dcdiag`, `nltest` e PowerShell.
 
-[Documentação técnica](https://github.com/ferreirakeelvin/homelab-noc/blob/main/docs/infraestrutura/inventario.md#samsung-n150p)
+**Próximas etapas planejadas (ainda não implementadas):**
+- Implantar Wazuh para centralização e análise de eventos.
+- Integrar endpoints Windows e Linux.
+- Configurar Sysmon e coleta de eventos relevantes.
+- Criar cenários controlados de detecção, triagem e documentação de alertas.
+- Relacionar atividades de investigação a técnicas do MITRE ATT&CK.
 
-Servidor Debian minimal em equipamento físico Samsung N150P, utilizando AdGuard Home para resolução DNS local e Zabbix para monitoramento de serviços, desempenho e disponibilidade.
+### 2. Homelab de Linux, Windows e monitoramento
 
-**Práticas:** administração Linux, DNS, Tailscale, diagnóstico de conectividade e monitoramento.
+Repositório: [homelab-noc](https://github.com/ferreirakeelvin/homelab-noc)
+
+- Ambiente virtualizado com Debian, Rocky Linux e Windows usando QEMU/KVM e libvirt.
+- Monitoramento de hosts e serviços com Zabbix 7 e agentes.
+- DNS local com AdGuard Home e integração com Tailscale.
+- Regras de firewall e práticas de troubleshooting de DNS, conectividade e serviços.
+
+### 3. Outros repositórios
+
+- [TechSegura — laboratório DevSecOps](https://github.com/ferreirakeelvin/techsegura-devsecops-lab)
 
 ## Formação e certificações
 
-- ADS — FASUL (em andamento).
-- LPIC-1 — Exame 101 aprovado; Exame 102 em preparação.
-- Google IT Support Professional Certificate.
-- Google Cybersecurity Professional Certificate.
-- Cisco Networking Academy — Redes e Cibersegurança.
-- Hackers do Bem — Básico e Nivelamento.
-- SENAI — Cloud Computing: Arquitetura e Aplicações.
+- Google Cybersecurity Professional Certificate (v2) — 2026.
+- Google IT Support Professional Certificate — 2023.
+- Cisco Networking Academy — Network Technician Career Path.
+- Cisco Networking Academy — Networking Basics.
+- Cisco Networking Academy — Introduction to Cybersecurity.
+- Cisco Networking Academy — Learn-A-Thon 2026.
+- Hackers do Bem — Formação em Cibersegurança: Básico e Nivelamento.
+- LPIC-1 — exame 101 aprovado; exame 102 em preparação.
+- NDG Linux Unhatched — Cisco Networking Academy.
+- SENAI Bahia — Cloud Computing: Arquitetura e Aplicações (2022).
 
 ## Objetivo profissional
 
-Busco oportunidades **100% remotas** de estágio ou nível júnior em NOC, Infraestrutura ou Suporte Técnico.
+Iniciar carreira em Segurança da Informação, com foco em SOC N1 / Blue Team, contribuindo com conhecimentos de suporte técnico, sistemas operacionais, redes, monitoramento, troubleshooting, documentação e aprendizado contínuo.
 
-## Outros repositórios
+**Localização:** Vitória da Conquista — BA, Brasil | **Disponibilidade desejada:** oportunidades remotas.
 
-[Scripts Linux](https://github.com/ferreirakeelvin/scripts-install) · [DevSecOps](https://github.com/ferreirakeelvin/techsegura-devsecops-lab) · [SOC Automation](https://github.com/ferreirakeelvin/soc-automation-tools)
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/ferreirakeelvin) · [GitHub](https://github.com/ferreirakeelvin)
+**Contato:** [LinkedIn](https://www.linkedin.com/in/ferreirakeelvin/) | [GitHub](https://github.com/ferreirakeelvin)
